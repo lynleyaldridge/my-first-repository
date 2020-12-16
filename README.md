@@ -12,6 +12,8 @@ This is my first ever GitHub project and I'm grateful for all the helpful resour
 * using the Git Bash shell to amend the README file, and push a commit to the repository from my local computer
 * using RStudio to clone a repository to my desktop, amend the README file, and push a commit to the repository  
 
-Being able to use the RMarkdown syntax I've recently begun using to format this README.md file feels good!  
+I did like being able to use the RMarkdown syntax I've recently begun using to format this README.md file, in that I felt like I wasn't starting from scratch completely here!  
 
-And this 'preview changes' option looks like track changes, but better.
+And I was impressed by the 'preview changes' view, showing the changes I've made to this document before I commit them.  Like track changes in word, but better.
+
+I'm keeping this repository online primarily for testing purposes. 
